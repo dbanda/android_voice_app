@@ -1,0 +1,47 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   VoiceRecognitionService/AndroidManifest.xml
+#	new file:   VoiceRecognitionService/gen/com/example/android/voicerecognitionservice/BuildConfig.java
+#	new file:   VoiceRecognitionService/gen/com/example/android/voicerecognitionservice/R.java
+#	new file:   VoiceRecognitionService/libs/android-support-v4.jar
+#	new file:   VoiceRecognitionService/project.properties
+#	new file:   VoiceRecognitionService/res/layout/activity_main.xml
+#	new file:   VoiceRecognitionService/res/menu/activity_main.xml
+#	new file:   VoiceRecognitionService/res/values/strings.xml
+#	new file:   VoiceRecognitionService/res/xml/preferences.xml
+#	new file:   VoiceRecognitionService/res/xml/recognizer.xml
+#	new file:   VoiceRecognitionService/src/com/example/android/voicerecognitionservice/MainActivity.java
+#	new file:   VoiceRecognitionService/src/com/example/android/voicerecognitionservice/VoiceRecognitionService.java
+#	new file:   VoiceRecognitionService/src/com/example/android/voicerecognitionservice/VoiceRecognitionSettings.java
+#	new file:   voicebasic/AndroidManifest.xml
+#	new file:   voicebasic/gen/com/example/voicebasic/BuildConfig.java
+#	new file:   voicebasic/gen/com/example/voicebasic/R.java
+#	new file:   voicebasic/ic_launcher-web.png
+#	new file:   voicebasic/libs/android-support-v4.jar
+#	new file:   voicebasic/proguard-project.txt
+#	new file:   voicebasic/project.properties
+#	new file:   voicebasic/res/drawable-hdpi/ic_launcher.png
+#	new file:   voicebasic/res/drawable-ldpi/ic_launcher.png
+#	new file:   voicebasic/res/drawable-mdpi/ic_launcher.png
+#	new file:   voicebasic/res/drawable-xhdpi/ic_launcher.png
+#	new file:   voicebasic/res/layout/activity_main.xml
+#	new file:   voicebasic/res/layout/main.xml
+#	new file:   voicebasic/res/layout/voice_recog.xml
+#	new file:   voicebasic/res/menu/activity_main.xml
+#	new file:   voicebasic/res/values-v11/styles.xml
+#	new file:   voicebasic/res/values-v14/styles.xml
+#	new file:   voicebasic/res/values/strings.xml
+#	new file:   voicebasic/res/values/styles.xml
+#	new file:   voicebasic/src/com/example/voicebasic/MainActivity.java
+#
+
